@@ -1,1 +1,1 @@
-# Arqueiro-pico-c32
+# Project Template 26
